@@ -1,0 +1,11 @@
+Opis aplikacije Listek potrebščin:
+
+Uporabnik aplikacije v ustrezna polja vnese mesečni in tedenski budget.
+V ostali dve polji uporabnik vnese ime in ceno izdelka, ki ga namerava kupiti.
+Ime izdelka se izpiše v ustreznem polju (na tedenskem oz. mesečnem "listku"), odvisno od izbire uporabnika.
+Hkrati se cena dodanega izdelka odšteje od mesečnega oz. tedenskega budgeta, desno zgoraj pa se izpiše količina denarja, ki ga ima uporabnik še na voljo.
+Če uporabnik želi dodati izdelek, katerega cena presega razpoložljivo količino denarja, mu program javi da ta izbira ni mogoča.
+Če je uporabnik izdelek že kupil in ga želi odstraniti z "listka", lahko to stori z uporabo gumbov "Že kupljeno ta mesec" in "Že kupljeno ta teden".
+Uporabnik lahko vnešene podatke shrani v tekstovno datoteko s končnico .txt ter jo kasneje odpre in nadaljuje z delom v aplikaciji.
+
+
